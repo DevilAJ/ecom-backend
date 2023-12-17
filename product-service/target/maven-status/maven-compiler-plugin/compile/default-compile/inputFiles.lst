@@ -1,0 +1,8 @@
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/repository/ProductRepository.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/service/TransformerService.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/dto/request/ProductRequest.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/model/Product.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/dto/responce/ProductResponce.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/controller/ProductController.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/service/ProductService.java
+/Users/aniketjaiswal/Desktop/Personal/ecom-backend/product-service/src/main/java/com/ecombackend/productservice/ProductServiceApplication.java
