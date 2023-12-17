@@ -1,0 +1,11 @@
+com/ecombackend/productservice/dto/request/ProductRequest.class
+com/ecombackend/productservice/controller/ProductController.class
+com/ecombackend/productservice/dto/request/ProductRequest$ProductRequestBuilder.class
+com/ecombackend/productservice/service/TransformerService.class
+com/ecombackend/productservice/model/Product.class
+com/ecombackend/productservice/dto/responce/ProductResponce.class
+com/ecombackend/productservice/dto/responce/ProductResponce$ProductResponceBuilder.class
+com/ecombackend/productservice/repository/ProductRepository.class
+com/ecombackend/productservice/service/ProductService.class
+com/ecombackend/productservice/ProductServiceApplication.class
+com/ecombackend/productservice/model/Product$ProductBuilder.class
